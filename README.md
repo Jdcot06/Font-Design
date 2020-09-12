@@ -1,5 +1,5 @@
-# Font-Design
-My Fonts
+# Font-Design: MetDemo2
+An edited versio of the font MetDemo.
 
 
 # Websites/ Sorces used:
