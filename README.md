@@ -12,7 +12,7 @@ An edited versio of the font MetDemo.
       
   **MetDemo Font (the original file, I just added a few details)**
       https://www.fontspace.com/metdemo-font-f3719
-      **To download go to:**
+      **To download original font go to:**
          https://www.fontspace.com/get/family/lgej
         
     
